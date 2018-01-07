@@ -5,7 +5,7 @@ subtitle: We can use physics to understand the universe.
 ---
 
 My name is Rui-Zhen Huang, or 黄瑞珍 in Chinese. I'm currently a PhD student of 
-Professor of Tao Xiang.
+Professor Tao Xiang at the Institute pf Physics, Chinese Academy of Sciences.
 My research focuss on strongly correlated systerms.  
 
 
