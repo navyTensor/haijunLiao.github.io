@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-bigimg: /img/HuaShan.jpeg
+bigimg: /img/HuaShanQiSong.jpeg
 ---
 
 ## Strongly correlated systems
