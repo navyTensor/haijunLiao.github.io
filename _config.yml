@@ -33,6 +33,7 @@ avatar:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
+
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
@@ -88,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "haijunLiao.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "navytensor.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
